@@ -4,4 +4,5 @@ by [@ayusudi](https://github.com/ayusudi)
 
 [https://ayusudi.github.io/glam-up-my-markup/](https://ayusudi.github.io/glam-up-my-markup/)
 
-[video demo](./video-gif.gif)
+[video demo](./video.mp4)
+![video demo](./video-gif.gif)
